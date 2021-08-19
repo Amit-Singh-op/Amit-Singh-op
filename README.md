@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amit Kumar Singh
 - 👀 I’m interested in new technologies
-- 🌱 I’m currently learning how to create games using c programming
+- 🌱 Currently working on an unknowm project
 - 📫 How to reach me Gmail: @amitkmwsingh2857421@gmail.com | Hackerrank: @Amit_Kumar_Singh
 
 <!---
