@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amit Kumar Singh
 - 👀 I’m interested in new technologies
-- 🌱 Currently working on an unknowm project
+- 🌱 Currently working on an unknown project
 - 📫 How to reach me Gmail: @amitkmwsingh2857421@gmail.com | Hackerrank: @Amit_Kumar_Singh
 
 <!---
